@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dalvin81
-- 👀 I’m interested in creating projects from scratch in Machine learning and Data Science
-- 🌱 I’m currently learning unsupervised pattern classification and reinforcement learning
+- 👋 Hi, I’m Nikita!
+- 👀 I’m interested in Software Development and Machine Learning
+- 🌱 I’m currently learning supervised pattern classification, reinforcement learning and deep learning
 - 💞️ I’m looking to collaborate on computer vision and NLP projects
 - 📫 How to reach me @https://www.linkedin.com/in/nikitadalvi21/
 
