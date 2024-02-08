@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Nikita!
-- 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently learning supervised pattern classification, reinforcement learning and deep learning
-- 💞️ I’m looking to collaborate on computer vision and NLP projects
+- 👀 I’m interested in Machine Learning and Back-end Development
 - 📫 How to reach me @https://www.linkedin.com/in/nikitadalvi21/
 
 <!---
