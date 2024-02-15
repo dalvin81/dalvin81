@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikita!
-- 👀 I’m interested in Machine Learning and Back-end Development
+- 👀 I’m interested in Machine Learning, Data Science and Back-end Development
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/nikitadalvi21/)
 
 <!---
